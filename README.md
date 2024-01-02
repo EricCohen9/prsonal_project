@@ -26,3 +26,9 @@ Follow these steps to use the program:
   npm run dev
 
 7. Ensure that changes are reflected in real-time.
+mongo password
+W2yz40bbMvF8ZJcC
+0548500232e
+postgres://users_cwmw_user:kfozee3pFHkIqdsb3xN3DgchdmiLyr7I@dpg-cldimnmg1b2c73f7ul1g-a.oregon-postgres.render.com/users_cwmw
+api key alfha CXNLJGOQ41T83ID2
+https://www.alphavantage.co/
